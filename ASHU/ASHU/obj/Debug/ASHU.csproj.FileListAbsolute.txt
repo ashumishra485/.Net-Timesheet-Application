@@ -1,0 +1,31 @@
+C:\Users\123\source\repos\ASHU\ASHU\bin\Debug\ASHU.exe.config
+C:\Users\123\source\repos\ASHU\ASHU\bin\Debug\ASHU.exe
+C:\Users\123\source\repos\ASHU\ASHU\bin\Debug\ASHU.pdb
+C:\Users\123\source\repos\ASHU\ASHU\obj\Debug\ASHU.csprojAssemblyReference.cache
+C:\Users\123\source\repos\ASHU\ASHU\obj\Debug\ASHU.Properties.Resources.resources
+C:\Users\123\source\repos\ASHU\ASHU\obj\Debug\ASHU.csproj.GenerateResource.cache
+C:\Users\123\source\repos\ASHU\ASHU\obj\Debug\ASHU.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\ASHU\ASHU\obj\Debug\ASHU.exe
+C:\Users\123\source\repos\ASHU\ASHU\obj\Debug\ASHU.pdb
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\bin\Debug\ASHU.exe.config
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\bin\Debug\ASHU.exe
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\bin\Debug\ASHU.pdb
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\obj\Debug\ASHU.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\obj\Debug\ASHU.Form1.resources
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\obj\Debug\ASHU.Properties.Resources.resources
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\obj\Debug\ASHU.Timesheet.resources
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\obj\Debug\ASHU.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\obj\Debug\ASHU.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\obj\Debug\ASHU.exe
+C:\Users\Admin\Desktop\ASHU\ASHU\ASHU\obj\Debug\ASHU.pdb
+C:\Users\123\source\repos\ASHU\ASHU\obj\Debug\ASHU.Timesheet.resources
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\bin\Debug\ASHU.exe.config
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\bin\Debug\ASHU.exe
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\bin\Debug\ASHU.pdb
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\obj\Debug\ASHU.csprojAssemblyReference.cache
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\obj\Debug\ASHU.Properties.Resources.resources
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\obj\Debug\ASHU.Timesheet.resources
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\obj\Debug\ASHU.csproj.GenerateResource.cache
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\obj\Debug\ASHU.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\obj\Debug\ASHU.exe
+C:\Users\123\Desktop\Task Submission\ASHU\ASHU\obj\Debug\ASHU.pdb
